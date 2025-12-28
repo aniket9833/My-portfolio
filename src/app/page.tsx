@@ -143,7 +143,7 @@ export default function Portfolio() {
     {
       role: "Full Stack Engineer Intern",
       company: "MindMach Technologies",
-      duration: "Apr 2025 - Present",
+      duration: "Apr 2025 - Jul 2025",
       location: "Remote",
       description: [
         "Contributed to core product development using Elixir, Phoenix, and Phoenix LiveView, enhancing backend functionality and improving interactive frontend components.",
@@ -165,7 +165,7 @@ export default function Portfolio() {
     {
       role: "Full Stack Developer Intern",
       company: "PhysicsWallah",
-      duration: "Mar 2025 - May 2025",
+      duration: "Mar 2025 - Dec 2025",
       location: "Remote",
       description: [
         "Independently designed and developed a fully responsive social media web application using the MERN stack, aligning with project requirements.",
