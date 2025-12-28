@@ -71,7 +71,7 @@ export default function Portfolio() {
   const handleViewResume = () => {
     // Option 3: Open Google Drive or online resume
     window.open(
-      "https://drive.google.com/file/d/1pLejGbRfNuAqSVpyjGh_Ph8n9_6g24Gx/view?usp=sharing",
+      "https://drive.google.com/file/d/1kE2ib6vH8xwfsq5xQ_jL3G5GjQuiZyG7/view?usp=sharing",
       "_blank"
     );
   };
